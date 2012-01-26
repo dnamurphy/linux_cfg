@@ -1,0 +1,14 @@
+(dp1
+V1200000.0*2*0.35
+p2
+I186
+sVids = [hash('%d_%f_%d'%(idrep[i],mhalo[i],hid[i])) for i in xrange(len(hid))]
+p3
+I84
+sV4.19/32
+p4
+I306
+sV(0.45)*0.45*0.75
+p5
+I234
+s.

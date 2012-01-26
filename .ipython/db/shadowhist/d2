@@ -1,0 +1,11 @@
+(dp1
+Vids[0]
+p2
+I144
+sVorder = ['GalaxyID','ra','dec','z_obs','z_cos','magpgo_tot_ext','magpro_tot_ext','magpio_tot_ext','magpzo_tot_ext','magpyo_tot_ext','stellarmass','HaloID','mhhalo']
+p3
+I80
+sVhashlib.new(jj,'ffff')
+p4
+I102
+s.

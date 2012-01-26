@@ -1,0 +1,8 @@
+(dp1
+Vorder = ['GalaxyID','ra','dec','z_obs,'z_cos','magpgo_tot_ext','magpro_tot_ext','magpio_tot_ext','magpzo_tot_ext','magpyo_tot_ext','stellarmass','HaloID','mhhalo']
+p2
+I75
+sVname.split('magp')[0]
+p3
+I5
+s.

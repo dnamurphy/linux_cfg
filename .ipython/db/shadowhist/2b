@@ -1,0 +1,11 @@
+(dp1
+Vmhalo[0]
+p2
+I63
+sVint(hashlib.md5('%d_%.0f_%d'%(idrep[i],mhalo[i],hid[i])).hexdigest(),4)
+p3
+I129
+sV494-440
+p4
+I209
+s.

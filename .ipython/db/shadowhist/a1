@@ -1,0 +1,8 @@
+(dp1
+Vname.split('magp')[1].split('_')[0]
+p2
+I8
+sVint(hashlib.md5('%d_%.0f_%d'%(idrep[i],mhalo[i],hid[i])).hexdigest())
+p3
+I132
+s.

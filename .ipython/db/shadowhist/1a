@@ -1,0 +1,8 @@
+(dp1
+V10**0.2
+p2
+I31
+sVids = ['%d_%.0f_%d'%(idrep[i],mhalo[i],hid[i])) for i in xrange(len(hid))]
+p3
+I112
+s.

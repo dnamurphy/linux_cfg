@@ -1,0 +1,8 @@
+(dp1
+Vname.split('mag')[1]
+p2
+I10
+sVorder = ['GalaxyID','ra','dec','z_obs,'z_cos','magpgo_tot_ext','magpro_tot_ext']
+p3
+I77
+s.

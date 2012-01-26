@@ -1,0 +1,17 @@
+(dp1
+V91563.-78000.
+p2
+I224
+sVxx = lambda x: float(''.join('2.144.000'.split('.')))
+p3
+I286
+sVname = 'magpgo_tot_ex'
+p4
+I3
+sV110+(12*32)
+p5
+I208
+sVint(hashlib.md5('%d_%.0f_%d'%(idrep[i],mhalo[i],hid[i])).hexdigest(),8)
+p6
+I128
+s.

@@ -1,0 +1,8 @@
+(dp1
+Vint(hashlib.md5('%d_%.0f_%d'%(idrep[i],mhalo[i],hid[i])).hexdigest(),16)
+p2
+I127
+sVj = file.open('junk.dat','w')
+p3
+I319
+s.

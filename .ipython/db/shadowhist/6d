@@ -1,0 +1,8 @@
+(dp1
+Vids = [abs(hash('%d_%f_%d'%(idrep[i],mhalo[i],hid[i]))) for i in xrange(len(hid))]
+p2
+I86
+sV16800000
+p3
+I181
+s.

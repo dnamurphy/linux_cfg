@@ -1,0 +1,14 @@
+(dp1
+V(med*4)+(book*4)+(gen)
+p2
+I264
+sV2.0*2500*800.
+p3
+I194
+sVprint '-'*59
+p4
+I202
+sVids2 = [hashlib.md5('%d_%.0f_%d'%(idrep[i],mhalo[i],hid[i])).hexdigest() for i in xrange(len(hid))]
+p5
+I121
+s.

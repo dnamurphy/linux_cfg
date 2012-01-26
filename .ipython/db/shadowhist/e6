@@ -1,0 +1,8 @@
+(dp1
+V(6.91+1.95)/20
+p2
+I300
+sVfrom dataIO import load
+p3
+I12
+s.

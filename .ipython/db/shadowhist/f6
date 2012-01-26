@@ -1,0 +1,14 @@
+(dp1
+V1200000.0*2
+p2
+I185
+sVdataset='md99'; store=True'; sf=10; plot=True; src_override= '/data/rw1/dmurphy/data/md01/sextractor_cat_merge_proc.fits'
+p3
+I173
+sV54*1000/800
+p4
+I211
+sV3.79/6
+p5
+I297
+s.

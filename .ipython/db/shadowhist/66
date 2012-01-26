@@ -1,0 +1,5 @@
+(dp1
+Vnumpy.int8(int(hashlib.md5('%d_%.0f_%d'%(idrep[i],mhalo[i],hid[i])).hexdigest(),16))
+p2
+I133
+s.

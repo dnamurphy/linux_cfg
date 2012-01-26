@@ -1,0 +1,11 @@
+(dp1
+Vhashlib.sha1("Nobody inspects the spammish repetition")
+p2
+I108
+sVhashlib.sha1('%d_%.0f_%d'%(idrep[i],mhalo[i],hid[i])).hexdigest()
+p3
+I119
+sVlen(unique(ids3))
+p4
+I126
+s.

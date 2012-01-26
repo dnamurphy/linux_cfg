@@ -1,0 +1,8 @@
+(dp1
+Vabs(hash('%d_%10.8f_%d'%(idrep[i],mhalo[i],hid[i])))
+p2
+I90
+sVid = '%d_%f_%d'%(idrep[0],mhalo[0],hid[0])
+p3
+I66
+s.

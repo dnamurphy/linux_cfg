@@ -1,0 +1,8 @@
+(dp1
+Vorder = ['GalaxyID','ra','dec','z_obs,'z_cos','magpgo_tot_ext','magpro_tot_ext','magpio_tot_ext','magpzo_tot_ext','magpyo_tot_ext']
+p2
+I76
+sV492./(2.0*1.2e6)
+p3
+I200
+s.

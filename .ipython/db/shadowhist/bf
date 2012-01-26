@@ -1,0 +1,8 @@
+(dp1
+V4*a[mode]+1*b[mode]+2*c[mode]
+p2
+I245
+sVdet = load('pfofwrap.dat')
+p3
+I13
+s.

@@ -1,0 +1,14 @@
+(dp1
+Vids = ['%d_%.0f_%d'%(idrep[i],mhalo[i],hid[i]) for i in xrange(len(hid))]
+p2
+I113
+sVimport matplotlib.backends.backend
+p3
+I51
+sVname.split('mag')[1].split('_')[0]
+p4
+I9
+sVhash('%d_%.0f_%d'%(idrep[i],mhalo[i],hid[i]))
+p5
+I96
+s.

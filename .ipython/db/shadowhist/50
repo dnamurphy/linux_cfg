@@ -1,0 +1,11 @@
+(dp1
+Vlog10(2)
+p2
+I20
+sVimport matplotlib.backends.show
+p3
+I50
+sVids[:5]
+p4
+I114
+s.
